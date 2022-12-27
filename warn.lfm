@@ -1,0 +1,9 @@
+object Warn_Frm: TWarn_Frm
+  Left = 282
+  Height = 90
+  Top = 250
+  Width = 405
+  Caption = 'Simple Scheduler Warning'
+  OnCreate = FormCreate
+  LCLVersion = '1.8.4.0'
+end

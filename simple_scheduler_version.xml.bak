@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<channel>
+  <title>Simple Scheduler Changelog</title>
+  <link>http://example.com/example.xml</link>
+  <description>Most recent changes with links to updates.</description>
+  <language>en</language>
+  <item>
+    <title>Version 1.08 (initial release)</title>
+    <releaseNotesLink>http://you.com/app/2.0.html</releaseNotesLink>
+    <pubDate>Tue, 12 Feb 2019 22:21:00 +0300</pubDate>
+    <enclosure>http://rock55.neocities.org/simple_scheduler_version.xml</enclosure>
+  </item>
+</channel>

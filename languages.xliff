@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en">
+    <body>
+      <trans-unit id="actionLblCaption">
+        <source>Action</source>
+        <target>İşlem</target>
+        <note from="description">Label</note>
+      </trans-unit>
+      <trans-unit id="fileLblCaption">
+        <source>File</source>
+        <target>Dosya</target>
+        <note from="description">Label</note>
+      </trans-unit>
+      <trans-unit id="parametersLblCaption">
+        <source>Parameters</source>
+        <target>Parametreler</target>
+        <note from="description">Label</note>
+      </trans-unit>
+      <trans-unit id="statusLblCaption">
+        <source>Status: Ready</source>
+        <target>Durum: Hazır</target>
+        <note from="description">Label</note>
+      </trans-unit>
+      <trans-unit id="mainGbxCaption">
+        <source>Main</source>
+        <target>Temel</target>
+        <note from="description">Groupbox</note>
+      </trans-unit>
+      <trans-unit id="scheduleRgpCaption">
+        <source>Schedule</source>
+        <target>Zamanlama</target>
+        <note from="description">Radiogroup</note>
+      </trans-unit>
+      <trans-unit id="actionCmbxRunAProgram">
+        <source>Run a program</source>
+        <target>program çalıştır</target>
+        <note from="description">Combobox</note>
+      </trans-unit>
+      <trans-unit id="actionCmbxLogOff">
+        <source>Logoff</source>
+        <target>Oturumu kapat</target>
+        <note from="description">Combobox</note>
+      </trans-unit>
+      <trans-unit id="actionCmbxStandBy">
+        <source>Standby</source>
+        <target>Beklemeye al</target>
+        <note from="description">Combobox</note>
+      </trans-unit>
+      <trans-unit id="actionCmbxReboot">
+        <source>Reboot</source>
+        <target>Yeniden başlat</target>
+        <note from="description">Combobox</note>
+      </trans-unit>
+      <trans-unit id="actionCmbxShutDown">
+        <source>Shutdown</source>
+        <target>Bilgisayarı kapat</target>
+        <note from="description">Combobox</note>
+      </trans-unit>
+      <trans-unit id="actionCmbxForceLogOff">
+        <source>Force logoff</source>
+        <target>Oturumu kapatmaya zorla</target>
+        <note from="description">Combobox</note>
+      </trans-unit>
+      <trans-unit id="actionCmbxForceStandBy">
+        <source>Force standy</source>
+        <target>Beklemeye almaya zorla</target>
+        <note from="description">Combobox</note>
+      </trans-unit>
+      <trans-unit id="actionCmbxForceReboot">
+        <source>Force reboot</source>
+        <target>Yeniden başlatmaya zorla</target>
+        <note from="description">Combobox</note>
+      </trans-unit>
+      <trans-unit id="actionCmbxForceShutDown">
+        <source>Force shutdown</source>
+        <target>Bilgisayarı kapatmaya zorla</target>
+        <note from="description">Combobox</note>
+      </trans-unit>
+      <trans-unit id="oneTimeRbtnCaption">
+        <source>One time</source>
+        <target>Belli bir saatte</target>
+        <note from="description">Radiobutton</note>
+      </trans-unit>
+      <trans-unit id="countDownRbtnCaption">
+        <source>Countdown</source>
+        <target>Geri sayım</target>
+        <note from="description">Radiobutton</note>
+      </trans-unit>
+      <trans-unit id="countDown2LblCaption">
+        <source>minute(s)</source>
+        <target>dakika</target>
+        <note from="description">Label</note>
+      </trans-unit>
+      <trans-unit id="IdleRbtnCaption">
+        <source>When idle</source>
+        <target>Sistem boştayken</target>
+        <note from="description">Radiobutton</note>
+      </trans-unit>
+      <trans-unit id="idle2LblCaption">
+        <source>minute(s)</source>
+        <target>dakika</target>
+        <note from="description">Label</note>
+      </trans-unit>
+      <trans-unit id="selectBtnCaption">
+        <source>Select</source>
+        <target>Seç</target>
+        <note from="description">Button</note>
+      </trans-unit>
+      <trans-unit id="runNowBtnCaption">
+        <source>Run now</source>
+        <target>Test</target>
+        <note from="description">Button</note>
+      </trans-unit>
+      <trans-unit id="startBtnCaption">
+        <source>Start / stop</source>
+        <target>Başlat / durdur</target>
+        <note from="description">Button</note>
+      </trans-unit>
+      <trans-unit id="settingsBtnCaption">
+        <source>Settings</source>
+        <target>Seçenekler</target>
+        <note from="description">Button</note>
+      </trans-unit>
+      <trans-unit id="shellExecuteErrorTitle">
+        <source>Simple Scheduler Error</source>
+        <target>Simple Scheduler Hata</target>
+        <note from="description">Dialog</note>
+      </trans-unit>
+      <trans-unit id="shellExecuteErrorPrefix">
+        <source>Error:</source>
+        <target>Hata:</target>
+        <note from="description">Dialog</note>
+      </trans-unit>
+      <trans-unit id="nullFileMsg">
+        <source>Please select a file first</source>
+        <target>Öncelikle bir dosya seçin</target>
+        <note from="description">Dialog</note>
+      </trans-unit>
+      <trans-unit id="nullActionMsg">
+        <source>Please select an action first</source>
+        <target>Öncelikle bir işlem seçin</target>
+        <note from="description">Dialog</note>
+      </trans-unit>
+      <trans-unit id="oneTimeStatusStr">
+        <source>Status: %action% at %time%</source>
+        <target>Durum: Saat %time%'de %action%</target>
+        <note from="description">String</note>
+      </trans-unit>
+      <trans-unit id="oneTimeCountDownDialogStr">
+        <source>%action% at %time%</source>
+        <target>Saat %time%'de %action%</target>
+        <note from="description">String</note>
+      </trans-unit>
+      <trans-unit id="countDownStatusStr">
+        <source>Status: %action% after %countdownnum% minute(s)</source>
+        <target>Durum: %countdownnum% dakika sonra %action%</target>
+        <note from="description">String</note>
+      </trans-unit>
+      <trans-unit id="countDownCountDownDialogStr">
+        <source>%action% after %countdownnum% minute(s)</source>
+        <target>%countdownnum% dakika sonra %action%</target>
+        <note from="description">String</note>
+      </trans-unit>
+      <trans-unit id="idleStatusStr">
+        <source>Status: %action% when idle %idlenum% minute(s)</source>
+        <target>Durum: %idlenum% dk. boşta olduğunda %action%</target>
+        <note from="description">String</note>
+      </trans-unit>
+      <trans-unit id="approvalStatusStr">
+        <source>Status: Waiting for approval</source>
+        <target>Durum: Kullanıcı onayı bekleniyor</target>
+        <note from="description">String</note>
+      </trans-unit>
+      <trans-unit id="idleCountDownDialogStr">
+        <source>%action% when idle %idlenum% minute(s)</source>
+        <target>%idlenum% dk. boşta olduğunda %action%</target>
+        <note from="description">String</note>
+      </trans-unit>
+      <trans-unit id="newUpdatesAvailableMsg">
+        <source>New updates are available. do you want to download them now?</source>
+        <target>Yeni güncellemeler var, indirmek istiyor musunuz?</target>
+        <note from="description">Dialog</note>
+      </trans-unit>
+      <trans-unit id="stringToBooleanErrorMsg">
+        <source>Could not convert string to boolean</source>
+        <target>String tipi boolean tipine dönüştürülemedi</target>
+        <note from="description">Dialog</note>
+      </trans-unit>
+      <trans-unit id="settingsFrmCaption">
+        <source>Settings</source>
+        <target>Seçenekler</target>
+        <note from="description">Form</note>
+      </trans-unit>
+      <trans-unit id="settingsTshCaption">
+        <source>Settings</source>
+        <target>Seçenekler</target>
+        <note from="description">Tabsheet</note>
+      </trans-unit>
+      <trans-unit id="aboutTshCaption">
+        <source>About</source>
+        <target>Hakkında</target>
+        <note from="description">Tabsheet</note>
+      </trans-unit>
+      <trans-unit id="checkForUpdatesChbxCaption">
+        <source>Check for updates</source>
+        <target>Güncellemeleri denetle</target>
+        <note from="description">Checkbox</note>
+      </trans-unit>
+      <trans-unit id="rememberInputsChbxCaption">
+        <source>Remember inputs</source>
+        <target>Girdileri hatırla</target>
+        <note from="description">Checkbox</note>
+      </trans-unit>
+      <trans-unit id="warnBeforeActionChbxCaption">
+        <source>Warn before action</source>
+        <target>İşlemden önce uyar</target>
+        <note from="description">Checkbox</note>
+      </trans-unit>
+      <trans-unit id="languageLblCaption">
+        <source>Language</source>
+        <target>Dil</target>
+        <note from="description">Label</note>
+      </trans-unit>
+      <trans-unit id="timeOutLblCaption">
+        <source>Execute after</source>
+        <target>Bu süreden sonra çalıştır</target>
+        <note from="description">Label</note>
+      </trans-unit>
+      <trans-unit id="timeOutSecsLblCaption">
+        <source>seconds</source>
+        <target>saniye</target>
+        <note from="description">Label</note>
+      </trans-unit>
+      <trans-unit id="closeBtnCaption">
+        <source>Close</source>
+        <target>Kapat</target>
+        <note from="description">Button</note>
+      </trans-unit>
+      <trans-unit id="aboutLblCaption">
+        <source>Version %ver%  |  Contact:</source>
+        <target>Sürüm %ver%  |  İletişim:</target>
+        <note from="description">Label</note>
+      </trans-unit>
+      <trans-unit id="donateLblCaption">
+        <source>Donate</source>
+        <target>Bağış yap</target>
+        <note from="description">Label</note>
+      </trans-unit>
+      <trans-unit id="timeOutFrmCaption">
+        <source>Simple Scheduler Warning</source>
+        <target>Simple Scheduler Uyarı</target>
+        <note from="description">Form</note>
+      </trans-unit>
+      <trans-unit id="timeOutDescriptionLblCaption">
+        <source>Do you want to execute the action below?</source>
+        <target>Aşağıdaki işlemi çalıştırmak istiyor musunuz?</target>
+        <note from="description">Label</note>
+      </trans-unit>
+      <trans-unit id="yesBtnCaption">
+        <source>Yes</source>
+        <target>Evet</target>
+        <note from="description">Button</note>
+      </trans-unit>
+      <trans-unit id="noBtnCaption">
+        <source>No</source>
+        <target>Hayır</target>
+        <note from="description">Button</note>
+      </trans-unit>
+      <trans-unit id="stringToBooleanErrorStr">
+        <source>Could not convert string to boolean</source>
+        <target>String tipi boolean tipine dönüştürülemedi</target>
+        <note from="description">String</note>
+      </trans-unit>
+      <trans-unit id="notAssignedErrorStr">
+        <source>Xml file not assigned</source>
+        <target>Xml dosyası atanmadı</target>
+        <note from="description">String</note>
+      </trans-unit>
+      <trans-unit id="createSettingsFileError">
+        <source>Unable to create settings file</source>
+        <target>Ayar dosyası oluşturulamıyor</target>
+        <note from="description">Dialog</note>
+      </trans-unit>
+      <trans-unit id="createSettingsFileWarning">
+        <source>Settings file not found, creating a new one.</source>
+        <target>Ayar dosyası bulunamadı, yeni bir tane oluşturuluyor.</target>
+        <note from="description">Dialog</note>
+      </trans-unit>
+      <trans-unit id="createAppDataDirectoryError">
+        <source>Could not create directory under appData</source>
+        <target>AppData altında klasörü oluşturulamıyor</target>
+        <note from="description">Dialog</note>
+      </trans-unit>
+      <trans-unit id="languageFileNotFoundError">
+        <source>Language file not found</source>
+        <target>Dil dosyası bulunamadı</target>
+        <note from="description">Dialog</note>
+      </trans-unit>
+      <trans-unit id="versionCheckFailedError">
+        <source>Version check failed</source>
+        <target>Sürüm kontrolü başarısız</target>
+        <note from="description">Update check</note>
+      </trans-unit>
+      <trans-unit id="newUpdatesAvailableWarning">
+        <source>New version available. Would you like to download it now?</source>
+        <target>Yeni sürüm var. İndirme sayfasına gitmek istiyor musunuz?</target>
+        <note from="description">Update check</note>
+      </trans-unit>
+      <trans-unit id="restartOfProgramRequiredMsg">
+        <source>Please restart the program to apply selected language</source>
+        <target>Dil ayarlarının uygulanabilmesi için lütfen programı yeniden başlatın</target>
+        <note from="description">String</note>
+      </trans-unit>
+      <trans-unit id="restartOfProgramRequiredLblCaption">
+        <source>(restart of program required)</source>
+        <target>(programın yeniden başlatılması gerekli)</target>
+        <note from="description">Label</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

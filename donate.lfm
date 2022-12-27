@@ -1,0 +1,43 @@
+object FormDonate: TFormDonate
+  Left = 282
+  Height = 240
+  Top = 250
+  Width = 320
+  BorderIcons = [biSystemMenu]
+  Caption = 'Donate'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '1.8.4.0'
+  object CardNumberCaption_Lbl: TLabel
+    Left = 40
+    Height = 13
+    Top = 80
+    Width = 60
+    Caption = 'card number'
+    ParentColor = False
+  end
+  object CardNumber_Lbl: TLabel
+    Left = 112
+    Height = 13
+    Top = 80
+    Width = 105
+    Caption = '5168 4040 8339 1343'
+    ParentColor = False
+  end
+  object IbanCaption_Lbl: TLabel
+    Left = 40
+    Height = 13
+    Top = 104
+    Width = 20
+    Caption = 'iban'
+    ParentColor = False
+  end
+  object Iban_Lbl: TLabel
+    Left = 112
+    Height = 13
+    Top = 104
+    Width = 175
+    Caption = 'TR56 0004 6000 5988 8000 3320 93'
+    ParentColor = False
+  end
+end
